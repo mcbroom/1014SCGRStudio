@@ -1,1 +1,7 @@
-
+install.packages("tidyverse")
+install.packages("agricolae")
+install.packages("learnr")
+install.packages("plotly")
+install.packages("mvtnorm")
+install.packages("shiny")
+install.packages("DiagrammeR")
