@@ -7,7 +7,7 @@ RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/
 
 Includes
 
-- R base 4.3
+- R base 4.1
 - tidyverse
 - agricolae
 - learnr
